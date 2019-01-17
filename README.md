@@ -11,7 +11,7 @@ This command server to Commit files to the local repository
 	this command server to download the remote repository
 	
 ### screenshoot
-	![foto](Screenshot.png)
+![foto](Screenshot.png)
 	
 ### What that command does?(git pull origin master)
 	 this command server to merge changes to the local repository
